@@ -1,3 +1,3 @@
 # calculator
 
-click to visit Calulator: https://moumin-pk.github.io
+click to visit Calculator: https://moumin-pk.github.io/calculator/
